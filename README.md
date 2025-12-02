@@ -1,9 +1,10 @@
 # controle_orcamentario
-#🚀 PRISMATIK FINANCE APP
+
+##🚀 PRISMATIK FINANCE APP
 Aplicativo móvel de Gestão de Finanças Pessoais desenvolvido em Flutter. 
 Este repositório demonstra a aplicação prática de um Design System robusto na construção de uma aplicação funcional e escalável.
 
-#📌 Objetivo e Contexto
+##📌 Objetivo e Contexto
 Este projeto é a evolução da fase inicial de Design System Sample. 
 O foco agora é demonstrar a transformação dos componentes visuais em telas completas de alta fidelidade, servindo como um estudo prático de:
 
